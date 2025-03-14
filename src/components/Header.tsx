@@ -19,7 +19,7 @@ const Header = () => {
           <div className="flex items-center">
             <Link to="/home" className="flex-shrink-0 flex items-center">
               <CreditCard className="h-8 w-auto text-green-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">Ramp</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">ZipCord</span>
             </Link>
             <nav className="hidden md:ml-6 md:flex md:space-x-8">
               <Link to="/home" className="inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
@@ -35,7 +35,7 @@ const Header = () => {
                 Pricing
               </Link>
               <Link to="/ai-features" className="inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
-                Ramp AI
+              ZipCord AI
               </Link>
             </nav>
           </div>
@@ -85,7 +85,7 @@ const Header = () => {
               Pricing
             </Link>
             <Link to="/ai-features" className="block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-500 hover:text-gray-700 hover:bg-gray-50 hover:border-gray-300">
-              Ramp AI
+            ZipCord AI
             </Link>
           </div>
           <div className="pt-4 pb-3 border-t border-gray-200">

@@ -34,7 +34,7 @@ const Features = () => {
             A better way to manage expenses
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            Ramp combines powerful software with corporate cards to help businesses save time and money.
+          ZipCord combines powerful software with corporate cards to help businesses save time and money.
           </p>
         </div>
 

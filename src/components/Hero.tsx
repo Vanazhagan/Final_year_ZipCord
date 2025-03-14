@@ -23,7 +23,7 @@ const Hero = () => {
                 <span className="block text-green-600 xl:inline">financial operations</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Ramp streamlines expense management with a modern corporate card solution that saves time, reduces costs, and provides real-time insights into your business spending.
+              ZipCord streamlines expense management with a modern corporate card solution that saves time, reduces costs, and provides real-time insights into your business spending.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">

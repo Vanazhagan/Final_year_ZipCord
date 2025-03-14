@@ -41,7 +41,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <div className="flex justify-center">
           <CreditCard className="h-12 w-auto text-green-600" />
-          <span className="ml-2 text-3xl font-bold text-gray-900">Ramp</span>
+          <span className="ml-2 text-3xl font-bold text-gray-900">ZipCord</span>
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
           Sign in to your account

@@ -51,7 +51,7 @@ const ChatInterface = () => {
     <div className="w-[90%] mx-auto bg-white rounded-lg shadow-lg overflow-hidden flex flex-col h-[70vh] border border-gray-200">
       <div className="bg-green-600 text-white px-6 py-4 flex items-center">
         <div className="w-3 h-3 bg-green-300 rounded-full mr-2 animate-pulse"></div>
-        <h3 className="font-medium">Ramp AI Assistant</h3>
+        <h3 className="font-medium">ZipCord AI Assistant</h3>
       </div>
       
       <div className="flex-1 p-4 overflow-y-auto bg-gray-50">

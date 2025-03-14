@@ -24,7 +24,7 @@ const AIFeaturePage = () => {
         
         <div className="max-w-3xl mx-auto mt-12 px-4">
           <div className="bg-white shadow rounded-lg p-6">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">How Ramp AI Works</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">How ZipCord AI Works</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="flex flex-col items-center text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mb-4">
